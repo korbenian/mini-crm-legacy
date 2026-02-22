@@ -1,0 +1,121 @@
+{
+  "translation": {
+    "loading": {
+      "loading": "Ładowanie...",
+      "loadingdata": "Ładowanie danych użytkownika"
+    },
+    "dashboardMetrics": {
+      "title": "Panel",
+      "totalUsers": "Łączna liczba użytkowników",
+      "totalCards": "Łączna liczba kart",
+      "avgAge": "Średni wiek",
+      "doneCards": "Ukończone karty",
+      "myCards": "Moje karty"
+    },
+    "tariff": {
+      "plans": "Plany taryf"
+    },
+    "registration": {
+      "title": "Rejestracja",
+      "haveAccount": "Czy masz konto?",
+      "link": "Kliknij tutaj"
+    },
+    "navigation": {
+      "dashboard": "Panel",
+      "articles": "Artykuły",
+      "tasks": "Zadania",
+      "chat": "Czat z AI"
+    },
+    "login": {
+      "title": "Logowanie",
+      "email": "Email",
+      "password": "Hasło",
+      "button": "Zaloguj się",
+      "noAccount": "Nie masz konta?",
+      "link": "Kliknij tutaj",
+      "error": "Nieznany błąd"
+    },
+    "dashboard": {
+      "age": "Wiek",
+      "name": "Imię",
+      "description": "Opis",
+      "mycards": "Moje karty",
+      "addcard": "Dodaj kartę",
+      "account": "Konto",
+      "exit": "Wyloguj",
+      "edit": "Edytuj",
+      "profile": "Profil",
+      "aboutuser": "O mnie"
+    },
+    "profile": {
+      "age": "Wiek",
+      "name": "Imię",
+      "exit": "Wyloguj",
+      "other": "Inna...",
+      "add": "Dodaj",
+      "edit": "Edytuj",
+      "enterTechnology": "Wprowadź technologię",
+      "technologies": "technologie",
+      "profile": "Profil",
+      "aboutuser": "O mnie",
+      "email": "Email"
+    },
+    "edit": {
+      "edit": "Edytuj profil",
+      "save": "Zapisz",
+      "exit": "Wyloguj",
+      "name": "Imię",
+      "aboutuser": "O mnie"
+    },
+    "createprofile": {
+      "createprofile": "Utwórz profil",
+      "age": "Wiek",
+      "name": "Imię",
+      "description": "Opis",
+      "create": "Utwórz",
+      "exit": "Wyloguj"
+    },
+    "tasks": {
+      "noTitle": "Bez tytułu",
+      "deadline": "Termin",
+      "delete": "Usuń",
+      "fill": "Wypełnij",
+      "close": "Zamknij",
+      "status": {
+        "todo": "Do zrobienia",
+        "inProgress": "W trakcie",
+        "done": "Gotowe"
+      }
+    },
+    "addtask": {
+      "search": "Szukaj zadania",
+      "filter": {
+        "all": "Wszystkie"
+      },
+      "status": {
+        "todo": "Do zrobienia",
+        "inProgress": "W trakcie",
+        "done": "Gotowe"
+      }
+    },
+    "taskedit": {
+      "titlePlaceholder": "Wpisz tytuł",
+      "deadline": "Termin",
+      "create": "Utwórz",
+      "delete": "Usuń"
+    },
+    "mainTasks": {
+      "title": "Zadania"
+    },
+    "art": {
+      "title": "Artykuły",
+      "noDescription": "Brak opisu"
+    },
+    "chat": {
+      "title": "Czat z AI",
+      "thinking": "AI myśli…",
+      "empty": "Zadaj pierwsze pytanie 👇",
+      "placeholder": "Zapytaj mnie o coś…"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+    "loading": {
+      "loading": "Laden...",
+      "loadingdata": "Benutzerdaten werden geladen"
+    },
+    "registration": {
+      "title": "Registrierung",
+      "haveAccount": "Haben Sie ein Konto?",
+      "link": "Hier klicken"
+    },
+    "navigation": {
+      "dashboard": "Dashboard",
+      "articles": "Artikel",
+      "tasks": "Aufgaben",
+      "chat": "Chat mit KI"
+    },
+    "dashboardMetrics": {
+      "title": "Dashboard",
+      "totalUsers": "Gesamtanzahl Nutzer",
+      "totalCards": "Gesamtanzahl Karten",
+      "avgAge": "Durchschnittsalter",
+      "doneCards": "Erledigte Karten",
+      "myCards": "Meine Karten"
+    },
+    "tariff": {
+      "plans": "Tarifpläne"
+    },
+    "login": {
+      "title": "Anmelden",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "button": "Login",
+      "noAccount": "Kein Konto?",
+      "link": "Hier klicken",
+      "error": "Unbekannter Fehler"
+    },
+    "dashboard": {
+      "welcome": "Hallo! 👋",
+  "overview": "Hier ist краткий обзор Ihrer heutigen Arbeit",
+      "age": "Alter",
+      "name": "Name",
+      "description": "Beschreibung",
+      "mycards": "Meine Karten",
+      "addcard": "Karte hinzufügen",
+      "account": "Konto",
+      "exit": "Abmelden",
+      "edit": "Bearbeiten",
+      "profile": "Profil",
+      "aboutuser": "Über mich"
+    },
+    "profile": {
+      "age": "Alter",
+      "name": "Name",
+      "exit": "Abmelden",
+      "edit": "Bearbeiten",
+      "add": "Hinzufügen",
+      "other": "Andere...",
+      "profile": "Profil",
+      "enterTechnology": "Technologie eingeben",
+      "technologies": "Technologie",
+      "aboutuser": "Über mich",
+      "email": "E-Mail"
+    },
+    "edit": {
+      "edit": "Profil bearbeiten",
+      "save": "Speichern",
+      "exit": "Abmelden",
+      "name": "Name",
+      "aboutuser": "Über mich"
+    },
+    "createprofile": {
+      "createprofile": "Profil erstellen",
+      "age": "Alter",
+      "name": "Name",
+      "description": "Beschreibung",
+      "create": "Erstellen",
+      "exit": "Abmelden"
+    },
+    "tasks": {
+      "noTitle": "Ohne Titel",
+      "deadline": "Frist",
+      "delete": "Löschen",
+      "fill": "Ausfüllen",
+      "close": "Schließen",
+      "status": {
+        "todo": "Zu erledigen",
+        "inProgress": "In Bearbeitung",
+        "done": "Erledigt"
+      }
+    },
+    "addtask": {
+      "search": "Aufgabe suchen",
+      "filter": {
+        "all": "Alle"
+      },
+      "status": {
+        "todo": "Zu erledigen",
+        "inProgress": "In Bearbeitung",
+        "done": "Erledigt"
+      }
+    },
+    "taskedit": {
+      "titlePlaceholder": "Titel eingeben",
+      "deadline": "Frist",
+      "create": "Erstellen",
+      "delete": "Löschen"
+    },
+    "mainTasks": {
+      "title": "Aufgaben"
+    },
+    "art": {
+      "title": "Artikel",
+      "noDescription": "Keine Beschreibung"
+    },
+    "chat": {
+      "title": "Chat mit KI",
+      "thinking": "KI denkt nach…",
+      "empty": "Stelle die erste Frage 👇",
+      "placeholder": "Frag mich etwas…"
+    }
+  
+}

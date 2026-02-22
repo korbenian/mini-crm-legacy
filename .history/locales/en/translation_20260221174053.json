@@ -1,0 +1,121 @@
+{
+  "translation": {
+    "loading": {
+      "loading": "Loading...",
+      "loadingdata": "Loading data User"
+    },
+    "registration": {
+      "title": "Registration",
+      "haveAccount": "Do you have an account?",
+      "link": "Click here"
+    },
+    "tariff": {
+      "plans": "Tariff Plans"
+    },
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "button": "Login",
+      "noAccount": "Don’t have an account?",
+      "link": "Click here",
+      "error": "Unknown error"
+    },
+    "navigation": {
+      "dashboard": "Dashboard",
+      "articles": "Articles",
+      "tasks": "Tasks",
+      "chat": "Chat with AI"
+    },
+    "dashboardMetrics": {
+      "title": "Dashboard",
+      "totalUsers": "Total Users",
+      "totalCards": "Total Cards",
+      "avgAge": "Average Age",
+      "doneCards": "Done Cards",
+      "myCards": "My Cards"
+    },
+    "dashboard": {
+      "age": "Age",
+      "name": "Name",
+      "description": "Description",
+      "mycards": "My cards",
+      "addcard": "Add card",
+      "account": "Account",
+      "exit": "Exit",
+      "edit": "Edit",
+      "profile": "Profile",
+      "aboutuser": "About me"
+    },
+    "profile": {
+      "age": "Age",
+      "name": "Name",
+      "exit": "Exit",
+      "technologies": "technologies",
+      "edit": "Edit",
+      "enterTechnology": "Enter technology",
+      "add": "Add",
+      "other": "Other...",
+      "profile": "Profile",
+      "aboutuser": "About me",
+      "email": "Email"
+    },
+    "edit": {
+      "edit": "Edit Profile",
+      "save": "Save",
+      "exit": "Exit",
+      "name": "Name",
+      "aboutuser": "About me"
+    },
+    "createprofile": {
+      "createprofile": "Create Profile",
+      "age": "Age",
+      "name": "Name",
+      "description": "Description",
+      "create": "Create",
+      "exit": "Exit"
+    },
+    "tasks": {
+      "noTitle": "Untitled",
+      "deadline": "Deadline",
+      "delete": "Delete",
+      "fill": "Fill",
+      "close": "Close",
+      "status": {
+        "todo": "To Do",
+        "inProgress": "In Progress",
+        "done": "Done"
+      }
+    },
+    "addtask": {
+      "search": "Search task",
+      "filter": {
+        "all": "All"
+      },
+      "status": {
+        "todo": "To Do",
+        "inProgress": "In Progress",
+        "done": "Done"
+      }
+    },
+    "taskedit": {
+      "titlePlaceholder": "Enter title",
+      "deadline": "Deadline",
+      "create": "Create",
+      "delete": "Delete"
+    },
+    "mainTasks": {
+      "title": "Tasks"
+    },
+    "art": {
+      "title": "Articles",
+      "noDescription": "No description"
+    },
+    "chat": {
+      "title": "Chat with AI",
+      "thinking": "AI thinks…",
+      "empty": "Write the first question 👇",
+      "placeholder": "Ask me something…"
+    }
+  }
+}
